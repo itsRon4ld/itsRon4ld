@@ -1,4 +1,4 @@
-# Hola, soy Ronald Hurtado
+Ronald Hurtado
 
 **AI Product · Technical Product Intern en MyWorkIn**  
 Estudio Ingeniería de Sistemas en la Universidad de Lima.
