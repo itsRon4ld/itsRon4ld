@@ -23,7 +23,7 @@ App web instalable para practicar el examen de reglas de tránsito en Perú. Inc
 
 Contribuí a la arquitectura del backend y a los flujos de asesorías y chatbot de una app para estudiantes. Usamos Bun, TypeScript, Hono, PostgreSQL y Drizzle.
 
-**Cortex Room** · Proyecto colaborativo
+**Cortex Room** · Proyecto colaborativo · [Código](https://github.com/S-kkipie/cortex-room)
 
 Contribuí a un canvas compartido con React Flow, con edición y cursores en tiempo real y persistencia de cambios.
 
