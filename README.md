@@ -22,7 +22,9 @@ Trabajo en la evolución funcional y técnica de una plataforma de empleabilidad
 
 ### Killio · Kynto Consulting
 
-Contribuí al frontend con React y Next.js y al backend con NestJS y PostgreSQL de una plataforma colaborativa de tableros y documentos.
+**Killio nació de mi idea y dirigí la creación del producto**, una plataforma colaborativa de tableros y documentos de Kynto Consulting. Combiné dirección de producto y desarrollo full-stack para llevar la idea a su implementación.
+
+También contribuí al frontend con React y Next.js y al backend con NestJS y PostgreSQL.
 
 - Mejoras en tableros Kanban, detalle de tarjetas y edición de contenido, incluido el pegado y renderizado de imágenes en bloques de texto.
 - Reorganización del módulo de carga de archivos con Backblaze B2, contexto de propiedad de los archivos y registro en base de datos.
@@ -61,3 +63,4 @@ Uso IA para explorar soluciones, preparar especificaciones, implementar y revisa
 ## Qué estoy explorando
 
 En mi tesis investigo agentes basados en LLM y contratos de calidad de datos para diagnosticar y remediar incidentes en pipelines. Quiero seguir profundizando en arquitectura de software, cloud y desarrollo de sistemas con IA.
+
