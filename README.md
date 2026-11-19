@@ -35,6 +35,9 @@ También contribuí al frontend con React y Next.js y al backend con NestJS y Po
 
 | Proyecto | Mi aporte |
 | --- | --- |
+| [Specforge](https://github.com/itsRon4ld/specforge) · Agente de análisis de producto | Diseñé y desarrollé un prototipo integrado con Linear y GitHub que convierte solicitudes en tareas con criterios de aceptación, detecta duplicados y contrasta el código existente. Incluye controles de permisos y revisión humana. TypeScript, Node.js y Claude Agent SDK. |
+| **Tracefix** · Agentes para diagnóstico y corrección | Construí un prototipo que conecta GlitchTip, Linear y GitHub para clasificar incidencias y proponer correcciones. Incluye deduplicación, colas SQLite, tareas programadas y PRs con evidencia de pruebas y aprobación humana para cambios de arquitectura. |
+| **FireFist · NASA Space Apps Challenge 2026** | Participé en el reto *Flame in Freefall*. Rediseñé la navegación y los paneles de evidencia para priorizar cifras, gráficos, fuentes y límites de los datos de combustión en microgravedad, dentro de una experiencia 3D con copiloto de IA. React, Next.js y TypeScript. |
 | [MTC Exam A-1](https://github.com/itsRon4ld/MTC-EXAMEN-A1) · [Demo](https://app-mtc.vercel.app) | App personal para practicar el examen de tránsito, con simulacros, repaso de errores y seguimiento del progreso. TypeScript, Next.js, Elysia y PostgreSQL. |
 | [ULima++](https://github.com/itsRon4ld/ULima_Backend_IS2) | Contribuciones al backend, su arquitectura y los flujos de asesorías y chatbot. Bun, Hono, PostgreSQL y Drizzle. |
 | [Cortex Room](https://github.com/S-kkipie/cortex-room) | Contribuciones a un canvas con React Flow, edición y cursores en tiempo real y persistencia de cambios. |
@@ -45,10 +48,10 @@ También contribuí al frontend con React y Next.js y al backend con NestJS y Po
 | --- | --- |
 | Producto | Linear, Plane, PRDs, especificaciones, backlog y criterios de aceptación |
 | Frontend | TypeScript, JavaScript, React, Next.js, TanStack Query, Tailwind CSS y shadcn/ui |
-| Backend y datos | Node.js, Bun, NestJS, Elysia/Eden, Hono, Zod, PostgreSQL, Drizzle, Neon y Firebase/Firestore |
+| Backend y datos | Node.js, Bun, NestJS, Elysia/Eden, Hono, Zod, PostgreSQL, SQLite, Drizzle, Neon y Firebase/Firestore |
 | Autenticación e integraciones | Better Auth, Firebase Auth, JWT, Ably, webhooks y almacenamiento compatible con S3 |
 | Calidad y entrega | Git, GitHub Actions, Vitest, Playwright, Docker, Vercel, Pulumi, GlitchTip y Sentry |
-| IA aplicada | Gemini, OpenRouter, Cohere, Codex, Claude, MCP y skills |
+| IA aplicada | Gemini, OpenRouter, Cohere, Codex, Claude Code, Claude Agent SDK, MCP y skills |
 
 ## Cómo integro IA en mi trabajo
 
@@ -63,4 +66,5 @@ Uso IA para explorar soluciones, preparar especificaciones, implementar y revisa
 ## Qué estoy explorando
 
 En mi tesis investigo agentes basados en LLM y contratos de calidad de datos para diagnosticar y remediar incidentes en pipelines. Quiero seguir profundizando en arquitectura de software, cloud y desarrollo de sistemas con IA.
+
 
